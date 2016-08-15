@@ -19,6 +19,6 @@ Done recently
 :
 
 Still to do
-[ ] Viver sem Temor - Krishnamurti
+[x] Viver sem Temor - Krishnamurti
 :
 ```
