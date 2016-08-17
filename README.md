@@ -16,9 +16,10 @@ Done recently
 [x] A Cultura e o Problema Humano - Krishnamurti
 [x] The Years of Awakening - Mary Lutyens
 [x] Encontro com o Eterno - Krishnamurti
+[x] Viver sem Temor - Krishnamurti
 :
 
 Still to do
-[x] Viver sem Temor - Krishnamurti
+[ ]
 :
 ```
