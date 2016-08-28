@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] A Solução para os nossos conflitos - Krishnamurti
 [x] A Cultura e o Problema Humano - Krishnamurti
 [x] The Years of Awakening - Mary Lutyens
 [x] Encontro com o Eterno - Krishnamurti
