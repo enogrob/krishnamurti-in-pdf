@@ -21,6 +21,6 @@ Done recently
 :
 
 Still to do
-[ ]
+[ ] Novos Roteiros em Educação
 :
 ```
