@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] Novos Roteiros em Educação - Krishnamurti
 [x] A Solução para os nossos conflitos - Krishnamurti
 [x] A Cultura e o Problema Humano - Krishnamurti
 [x] The Years of Awakening - Mary Lutyens
@@ -21,6 +22,6 @@ Done recently
 :
 
 Still to do
-[ ] Novos Roteiros em Educação
+[ ] A Educação e o Significado da Vida - Krishnamurti
 :
 ```
