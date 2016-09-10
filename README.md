@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] A Educação e o Significado da Vida - Krishnamurti
 [x] Novos Roteiros em Educação - Krishnamurti
 [x] A Solução para os nossos conflitos - Krishnamurti
 [x] A Cultura e o Problema Humano - Krishnamurti
@@ -22,6 +23,6 @@ Done recently
 :
 
 Still to do
-[ ] A Educação e o Significado da Vida - Krishnamurti
+[ ] Debates sobre Educação com Alunos e Professores em Banaras - india - Krishnamurti
 :
 ```
