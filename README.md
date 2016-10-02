@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] Debates sobre Educação com Alunos e Professores em Banaras - india - Krishnamurti
 [x] A Educação e o Significado da Vida - Krishnamurti
 [x] Novos Roteiros em Educação - Krishnamurti
 [x] A Solução para os nossos conflitos - Krishnamurti
@@ -23,6 +24,8 @@ Done recently
 :
 
 Still to do
-[ ] Debates sobre Educação com Alunos e Professores em Banaras - india - Krishnamurti
+[ ] O Passo Decisivo - Krishnamurti
 :
 ```
+
+
