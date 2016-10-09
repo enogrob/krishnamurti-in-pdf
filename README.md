@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] O Passo Decisivo - Krishnamurti
 [x] Debates sobre Educação com Alunos e Professores em Banaras - india - Krishnamurti
 [x] A Educação e o Significado da Vida - Krishnamurti
 [x] Novos Roteiros em Educação - Krishnamurti
@@ -24,7 +25,7 @@ Done recently
 :
 
 Still to do
-[ ] O Passo Decisivo - Krishnamurti
+[ ] 
 :
 ```
 
