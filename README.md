@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] O Homem e seus desejos em conflito
 [x] A Mutação Interior
 [x] O Passo Decisivo - Krishnamurti
 [x] Debates sobre Educação com Alunos e Professores em Banaras - india - Krishnamurti
@@ -26,7 +27,7 @@ Done recently
 :
 
 Still to do
-[ ] O Homem e seus desejos em conflito
+[ ] A Essencia da Maturidade
 :
 ```
 
