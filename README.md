@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] A Essencia da Maturidade
 [x] O Homem e seus desejos em conflito
 [x] A Mutação Interior
 [x] O Passo Decisivo - Krishnamurti
@@ -27,7 +28,7 @@ Done recently
 :
 
 Still to do
-[ ] A Essencia da Maturidade
+[ ] Palestras com Estudantes Americanos
 :
 ```
 
