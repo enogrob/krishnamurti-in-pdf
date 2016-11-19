@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] Palestras com Estudantes Americanos
 [x] A Essencia da Maturidade
 [x] O Homem e seus desejos em conflito
 [x] A Mutação Interior
@@ -28,7 +29,7 @@ Done recently
 :
 
 Still to do
-[ ] Palestras com Estudantes Americanos
+[ ]
 :
 ```
 
