@@ -29,7 +29,7 @@ Done recently
 :
 
 Still to do
-[ ] O Novo Ente Humano
+[~] O Novo Ente Humano
 :
 ```
 
