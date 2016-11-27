@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] O Novo Ente Humano
 [x] Palestras com Estudantes Americanos
 [x] A Essencia da Maturidade
 [x] O Homem e seus desejos em conflito
@@ -29,7 +30,7 @@ Done recently
 :
 
 Still to do
-[~] O Novo Ente Humano
+[ ] O Começo do Aprendizado
 :
 ```
 
