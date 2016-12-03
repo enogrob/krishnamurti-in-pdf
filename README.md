@@ -30,7 +30,7 @@ Done recently
 :
 
 Still to do
-[ ] O Começo do Aprendizado
+[~] O Começo do Aprendizado
 :
 ```
 
