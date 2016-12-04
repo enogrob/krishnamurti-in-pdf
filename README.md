@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] O Começo do Aprendizado
 [x] O Novo Ente Humano
 [x] Palestras com Estudantes Americanos
 [x] A Essencia da Maturidade
@@ -30,7 +31,7 @@ Done recently
 :
 
 Still to do
-[~] O Começo do Aprendizado
+[ ] Palestras por Krishnamurti em Ojai e Sarobia - 1940
 :
 ```
 
