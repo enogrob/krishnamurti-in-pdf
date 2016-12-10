@@ -31,7 +31,7 @@ Done recently
 :
 
 Still to do
-[ ] Palestras por Krishnamurti em Ojai e Sarobia - 1940
+[~] Palestras por Krishnamurti em Ojai e Sarobia - 1940
 :
 ```
 
