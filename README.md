@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] Palestras por Krishnamurti em Ojai e Sarobia - 1940
 [x] O Começo do Aprendizado
 [x] O Novo Ente Humano
 [x] Palestras com Estudantes Americanos
@@ -31,7 +32,7 @@ Done recently
 :
 
 Still to do
-[~] Palestras por Krishnamurti em Ojai e Sarobia - 1940
+[ ] Krishnamurti and David Bohm - The Ending of Time
 :
 ```
 
