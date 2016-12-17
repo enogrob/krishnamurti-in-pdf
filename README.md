@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] Krishnamurti and David Bohm - The Ending of Time
 [x] Palestras por Krishnamurti em Ojai e Sarobia - 1940
 [x] O Começo do Aprendizado
 [x] O Novo Ente Humano
@@ -32,7 +33,7 @@ Done recently
 :
 
 Still to do
-[ ] Krishnamurti and David Bohm - The Ending of Time
+[ ] 
 :
 ```
 
