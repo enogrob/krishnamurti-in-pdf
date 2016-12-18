@@ -33,6 +33,7 @@ Done recently
 :
 
 Still to do
+<<<<<<< HEAD
 [ ] Early Writings Vol. 1
 :
 ```
