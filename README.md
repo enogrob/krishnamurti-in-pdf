@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] Krishnamurti and David Bohm - The Limits of Thought
 [x] Krishnamurti and David Bohm - The Ending of Time
 [x] Palestras por Krishnamurti em Ojai e Sarobia - 1940
 [x] O Começo do Aprendizado
@@ -33,9 +34,6 @@ Done recently
 :
 
 Still to do
-<<<<<<< HEAD
-[ ] Early Writings Vol. 1
+[ ] 
 :
 ```
-
-
