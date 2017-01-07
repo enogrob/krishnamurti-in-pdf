@@ -34,6 +34,6 @@ Done recently
 :
 
 Still to do
-[ ] 
+[~] Krishnamurti - The Awakening of Intelligence
 :
 ```
