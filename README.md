@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] The Awakening of Intelligence
 [x] Krishnamurti and David Bohm - The Limits of Thought
 [x] Krishnamurti and David Bohm - The Ending of Time
 [x] Palestras por Krishnamurti em Ojai e Sarobia - 1940
@@ -34,6 +35,6 @@ Done recently
 :
 
 Still to do
-[~] Krishnamurti - The Awakening of Intelligence
+[ ] The Perfume of the Teachings
 :
 ```
