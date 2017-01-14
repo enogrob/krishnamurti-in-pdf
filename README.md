@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] The Perfume of the Teachings
 [x] The Awakening of Intelligence
 [x] Krishnamurti and David Bohm - The Limits of Thought
 [x] Krishnamurti and David Bohm - The Ending of Time
@@ -35,6 +36,6 @@ Done recently
 :
 
 Still to do
-[ ] The Perfume of the Teachings
+[ ] 
 :
 ```
