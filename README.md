@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] The Whole Movement of Life is Learning
 [x] The Perfume of the Teachings
 [x] The Awakening of Intelligence
 [x] Krishnamurti and David Bohm - The Limits of Thought
@@ -36,6 +37,6 @@ Done recently
 :
 
 Still to do
-[~] The Whole Movement of Life is Learning
+[ ] Krishnamurti - The World Within
 :
 ```
