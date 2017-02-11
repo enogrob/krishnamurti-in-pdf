@@ -37,6 +37,6 @@ Done recently
 :
 
 Still to do
-[ ] Krishnamurti - The World Within
+[~] Krishnamurti - The World Within
 :
 ```
