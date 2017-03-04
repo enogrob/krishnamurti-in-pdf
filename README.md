@@ -13,6 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Done recently
+[x] Krishnamurti - The World Within
 [x] The Whole Movement of Life is Learning
 [x] The Perfume of the Teachings
 [x] The Awakening of Intelligence
@@ -37,6 +38,6 @@ Done recently
 :
 
 Still to do
-[~] Krishnamurti - The World Within
+[ ] 
 :
 ```
